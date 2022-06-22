@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Manzana Verde</string>
+    <string name="login">Inicia sesión</string>
+    <string name="edit">Registrate</string>
+    <string name="input">Continuar con Apple</string>
+    <string name="logout">Continúa con tu celular</string>
+    <string name="trending">Iniciar sesión</string>
+    <string name="correo">Con tu correo</string>
+    <string name="hyperlink">¿No puedes iniciar sesión?\u0020<a href="https://learntodroid.com">Olvidé mi contraseña</a></string>
+    <string name="facebook">facebook</string>
+
+</resources>
